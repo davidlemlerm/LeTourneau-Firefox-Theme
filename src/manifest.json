@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "LeTourneau University Colors",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-005-f5f3cf677b1f132c75ddc7bd319dd1fc.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(248, 180, 53)",
+      "toolbar_text": "rgb(0, 48, 130)",
+      "frame": "rgb(0, 48, 130)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(0, 48, 130)",
+      "popup": "rgb(0, 48, 130)",
+      "popup_text": "rgb(248, 180, 53)",
+      "tab_loading": "rgb(0, 48, 130)"
+    }
+  }
+}
